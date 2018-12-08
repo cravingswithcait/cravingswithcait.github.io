@@ -16,8 +16,8 @@ fields:
   label: featured_image
   name: featured_image
 pages:
+- _posts/2017-08-31-first-destination.md
 - _posts/2017-09-05-september-1-3.md
+- _posts/2017-09-03-the-view-was-nice.md
 - _posts/2018-08-30-it-s-time.md
 - _posts/2017-08-28-this-past-summer.md
-- _posts/2017-08-31-first-destination.md
-- _posts/2017-09-03-the-view-was-nice.md
