@@ -15,3 +15,5 @@ fields:
 - type: file
   label: featured_image
   name: featured_image
+pages:
+- _posts/it-s-time.md
