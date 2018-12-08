@@ -16,6 +16,7 @@ fields:
   label: featured_image
   name: featured_image
 pages:
+- _posts/september-1-3.md
 - _posts/2018-08-30-it-s-time.md
 - _posts/2017-08-28-this-past-summer.md
 - _posts/2017-08-31-first-destination.md
